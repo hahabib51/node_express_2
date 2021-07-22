@@ -1,0 +1,2 @@
+- BUG #1: `User.getAll()` returns more than basic info, replaced with `User.getAllBasicInfo()`
+- BUG #2: Incorrect error message given for `User.register()`
